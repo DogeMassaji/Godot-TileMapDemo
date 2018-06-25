@@ -4,4 +4,13 @@
 
 [node name="TileMap" index="0" instance=ExtResource( 1 )]
 
+[node name="static_block" parent="." index="7"]
+
+editor/display_folded = false
+_sections_unfolded = [ "Transform" ]
+
+[node name="1" parent="static_block" index="0"]
+
+_sections_unfolded = [ "Collision" ]
+
 

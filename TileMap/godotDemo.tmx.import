@@ -1,0 +1,20 @@
+[remap]
+
+importer="vnen.tiled_importer"
+type="PackedScene"
+path="res://.import/godotDemo.tmx-6e5f535b632d8589035c8796a58a9a0e.scn"
+
+[deps]
+
+source_file="res://TileMap/godotDemo.tmx"
+dest_files=[ "res://.import/godotDemo.tmx-6e5f535b632d8589035c8796a58a9a0e.scn" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+uv_clip=true
+image_flags=7
+embed_internal_images=false
+save_tiled_properties=false
+post_import_script=""

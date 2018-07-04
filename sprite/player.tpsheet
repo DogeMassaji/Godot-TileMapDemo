@@ -1,0 +1,1068 @@
+{
+	"textures": [
+		{
+			"image": "player.png",
+			"size": {
+				"w": 484,
+				"h": 1632
+			},
+			"sprites": [
+				{
+					"filename": "straight_sword_midRngAtk3_06.png",
+					"region": {
+						"x": 1,
+						"y": 1,
+						"w": 213,
+						"h": 136
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk1_04.png",
+					"region": {
+						"x": 1,
+						"y": 139,
+						"w": 145,
+						"h": 144
+					},
+					"margin": {
+						"x": 87,
+						"y": 0,
+						"w": 87,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk1_03.png",
+					"region": {
+						"x": 216,
+						"y": 1,
+						"w": 157,
+						"h": 120
+					},
+					"margin": {
+						"x": 99,
+						"y": 0,
+						"w": 99,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_skill_04.png",
+					"region": {
+						"x": 1,
+						"y": 285,
+						"w": 145,
+						"h": 120
+					},
+					"margin": {
+						"x": 95,
+						"y": 0,
+						"w": 95,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_skill_05.png",
+					"region": {
+						"x": 1,
+						"y": 407,
+						"w": 133,
+						"h": 128
+					},
+					"margin": {
+						"x": 83,
+						"y": 0,
+						"w": 83,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk1_04.png",
+					"region": {
+						"x": 1,
+						"y": 537,
+						"w": 137,
+						"h": 112
+					},
+					"margin": {
+						"x": 79,
+						"y": 0,
+						"w": 79,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk3_05.png",
+					"region": {
+						"x": 1,
+						"y": 651,
+						"w": 109,
+						"h": 136
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_attacked_02.png",
+					"region": {
+						"x": 1,
+						"y": 789,
+						"w": 109,
+						"h": 128
+					},
+					"margin": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk2_02.png",
+					"region": {
+						"x": 1,
+						"y": 919,
+						"w": 109,
+						"h": 124
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jump_02.png",
+					"region": {
+						"x": 1,
+						"y": 1045,
+						"w": 121,
+						"h": 116
+					},
+					"margin": {
+						"x": 47,
+						"y": 0,
+						"w": 47,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_counterAtk_02.png",
+					"region": {
+						"x": 1,
+						"y": 1163,
+						"w": 133,
+						"h": 100
+					},
+					"margin": {
+						"x": 59,
+						"y": 0,
+						"w": 59,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk1_03.png",
+					"region": {
+						"x": 1,
+						"y": 1265,
+						"w": 137,
+						"h": 92
+					},
+					"margin": {
+						"x": 87,
+						"y": 0,
+						"w": 87,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk1_04.png",
+					"region": {
+						"x": 1,
+						"y": 1359,
+						"w": 153,
+						"h": 88
+					},
+					"margin": {
+						"x": 87,
+						"y": 0,
+						"w": 87,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jumpLightAtk_02.png",
+					"region": {
+						"x": 1,
+						"y": 1449,
+						"w": 157,
+						"h": 84
+					},
+					"margin": {
+						"x": 51,
+						"y": 0,
+						"w": 51,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_06.png",
+					"region": {
+						"x": 1,
+						"y": 1535,
+						"w": 109,
+						"h": 96
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_07.png",
+					"region": {
+						"x": 112,
+						"y": 1535,
+						"w": 105,
+						"h": 96
+					},
+					"margin": {
+						"x": 39,
+						"y": 0,
+						"w": 39,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jumpHeavyAtk_01.png",
+					"region": {
+						"x": 375,
+						"y": 1,
+						"w": 105,
+						"h": 108
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jump_04.png",
+					"region": {
+						"x": 148,
+						"y": 139,
+						"w": 89,
+						"h": 132
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk3_02.png",
+					"region": {
+						"x": 148,
+						"y": 273,
+						"w": 89,
+						"h": 128
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk2_03.png",
+					"region": {
+						"x": 239,
+						"y": 123,
+						"w": 137,
+						"h": 88
+					},
+					"margin": {
+						"x": 23,
+						"y": 0,
+						"w": 23,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk2_02.png",
+					"region": {
+						"x": 239,
+						"y": 213,
+						"w": 129,
+						"h": 92
+					},
+					"margin": {
+						"x": 71,
+						"y": 0,
+						"w": 71,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jump_05.png",
+					"region": {
+						"x": 239,
+						"y": 307,
+						"w": 125,
+						"h": 88
+					},
+					"margin": {
+						"x": 35,
+						"y": 0,
+						"w": 35,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_counterAtk_03.png",
+					"region": {
+						"x": 366,
+						"y": 307,
+						"w": 117,
+						"h": 100
+					},
+					"margin": {
+						"x": 43,
+						"y": 0,
+						"w": 43,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_05.png",
+					"region": {
+						"x": 370,
+						"y": 213,
+						"w": 93,
+						"h": 92
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_run_01.png",
+					"region": {
+						"x": 378,
+						"y": 111,
+						"w": 97,
+						"h": 100
+					},
+					"margin": {
+						"x": 23,
+						"y": 0,
+						"w": 23,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk2_01.png",
+					"region": {
+						"x": 112,
+						"y": 651,
+						"w": 89,
+						"h": 124
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk3_03.png",
+					"region": {
+						"x": 112,
+						"y": 777,
+						"w": 89,
+						"h": 124
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jumpHeavyAtk_02.png",
+					"region": {
+						"x": 112,
+						"y": 903,
+						"w": 93,
+						"h": 116
+					},
+					"margin": {
+						"x": 59,
+						"y": 0,
+						"w": 59,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jump_03.png",
+					"region": {
+						"x": 124,
+						"y": 1021,
+						"w": 77,
+						"h": 120
+					},
+					"margin": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk1_03.png",
+					"region": {
+						"x": 136,
+						"y": 1143,
+						"w": 85,
+						"h": 112
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk1_01.png",
+					"region": {
+						"x": 140,
+						"y": 1257,
+						"w": 81,
+						"h": 100
+					},
+					"margin": {
+						"x": 7,
+						"y": 0,
+						"w": 7,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jumpHeavyAtk_03.png",
+					"region": {
+						"x": 156,
+						"y": 1359,
+						"w": 109,
+						"h": 88
+					},
+					"margin": {
+						"x": 75,
+						"y": 0,
+						"w": 75,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jump_01.png",
+					"region": {
+						"x": 160,
+						"y": 1449,
+						"w": 125,
+						"h": 84
+					},
+					"margin": {
+						"x": 43,
+						"y": 0,
+						"w": 43,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_run_02.png",
+					"region": {
+						"x": 219,
+						"y": 1535,
+						"w": 93,
+						"h": 96
+					},
+					"margin": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_03.png",
+					"region": {
+						"x": 239,
+						"y": 397,
+						"w": 121,
+						"h": 84
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_attacked_01.png",
+					"region": {
+						"x": 362,
+						"y": 409,
+						"w": 117,
+						"h": 72
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_block_01.png",
+					"region": {
+						"x": 148,
+						"y": 403,
+						"w": 89,
+						"h": 108
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_skill_03.png",
+					"region": {
+						"x": 239,
+						"y": 483,
+						"w": 153,
+						"h": 80
+					},
+					"margin": {
+						"x": 95,
+						"y": 0,
+						"w": 95,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jumpLightAtk_01.png",
+					"region": {
+						"x": 394,
+						"y": 483,
+						"w": 89,
+						"h": 112
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk1_02.png",
+					"region": {
+						"x": 140,
+						"y": 513,
+						"w": 97,
+						"h": 84
+					},
+					"margin": {
+						"x": 31,
+						"y": 0,
+						"w": 31,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_04.png",
+					"region": {
+						"x": 239,
+						"y": 565,
+						"w": 141,
+						"h": 68
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_jumpLightAtk_03.png",
+					"region": {
+						"x": 382,
+						"y": 597,
+						"w": 101,
+						"h": 76
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk1_05.png",
+					"region": {
+						"x": 203,
+						"y": 635,
+						"w": 137,
+						"h": 76
+					},
+					"margin": {
+						"x": 47,
+						"y": 0,
+						"w": 47,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk1_02.png",
+					"region": {
+						"x": 203,
+						"y": 713,
+						"w": 89,
+						"h": 100
+					},
+					"margin": {
+						"x": 23,
+						"y": 0,
+						"w": 23,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_catched_01.png",
+					"region": {
+						"x": 203,
+						"y": 815,
+						"w": 89,
+						"h": 84
+					},
+					"margin": {
+						"x": 7,
+						"y": 0,
+						"w": 7,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk2_01.png",
+					"region": {
+						"x": 207,
+						"y": 901,
+						"w": 81,
+						"h": 108
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk2_01.png",
+					"region": {
+						"x": 294,
+						"y": 713,
+						"w": 69,
+						"h": 108
+					},
+					"margin": {
+						"x": 11,
+						"y": 0,
+						"w": 11,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk1_06.png",
+					"region": {
+						"x": 294,
+						"y": 823,
+						"w": 89,
+						"h": 84
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk2_02.png",
+					"region": {
+						"x": 290,
+						"y": 909,
+						"w": 89,
+						"h": 100
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk2_03.png",
+					"region": {
+						"x": 365,
+						"y": 675,
+						"w": 85,
+						"h": 100
+					},
+					"margin": {
+						"x": 35,
+						"y": 0,
+						"w": 35,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk3_02.png",
+					"region": {
+						"x": 385,
+						"y": 777,
+						"w": 77,
+						"h": 108
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_01.png",
+					"region": {
+						"x": 207,
+						"y": 1011,
+						"w": 117,
+						"h": 60
+					},
+					"margin": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_die_01.png",
+					"region": {
+						"x": 203,
+						"y": 1073,
+						"w": 97,
+						"h": 60
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_run_04.png",
+					"region": {
+						"x": 223,
+						"y": 1135,
+						"w": 85,
+						"h": 100
+					},
+					"margin": {
+						"x": 11,
+						"y": 0,
+						"w": 11,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_run_05.png",
+					"region": {
+						"x": 223,
+						"y": 1237,
+						"w": 85,
+						"h": 96
+					},
+					"margin": {
+						"x": 11,
+						"y": 0,
+						"w": 11,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_clsRngAtk3_03.png",
+					"region": {
+						"x": 326,
+						"y": 1011,
+						"w": 73,
+						"h": 84
+					},
+					"margin": {
+						"x": 31,
+						"y": 0,
+						"w": 31,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk3_05.png",
+					"region": {
+						"x": 310,
+						"y": 1097,
+						"w": 85,
+						"h": 92
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_stand_01.png",
+					"region": {
+						"x": 310,
+						"y": 1191,
+						"w": 85,
+						"h": 92
+					},
+					"margin": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_counterAtk_01.png",
+					"region": {
+						"x": 310,
+						"y": 1285,
+						"w": 89,
+						"h": 84
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk1_01.png",
+					"region": {
+						"x": 381,
+						"y": 909,
+						"w": 73,
+						"h": 96
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk2_04.png",
+					"region": {
+						"x": 401,
+						"y": 1007,
+						"w": 77,
+						"h": 96
+					},
+					"margin": {
+						"x": 11,
+						"y": 0,
+						"w": 11,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_run_06.png",
+					"region": {
+						"x": 397,
+						"y": 1105,
+						"w": 81,
+						"h": 92
+					},
+					"margin": {
+						"x": 23,
+						"y": 0,
+						"w": 23,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_stand_02.png",
+					"region": {
+						"x": 397,
+						"y": 1199,
+						"w": 77,
+						"h": 84
+					},
+					"margin": {
+						"x": 19,
+						"y": 0,
+						"w": 19,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_skill_02.png",
+					"region": {
+						"x": 401,
+						"y": 1285,
+						"w": 81,
+						"h": 88
+					},
+					"margin": {
+						"x": 7,
+						"y": 0,
+						"w": 7,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_longRngAtk1_02.png",
+					"region": {
+						"x": 314,
+						"y": 1371,
+						"w": 85,
+						"h": 80
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_midRngAtk1_01.png",
+					"region": {
+						"x": 287,
+						"y": 1453,
+						"w": 93,
+						"h": 80
+					},
+					"margin": {
+						"x": 3,
+						"y": 0,
+						"w": 3,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_run_03.png",
+					"region": {
+						"x": 314,
+						"y": 1535,
+						"w": 65,
+						"h": 92
+					},
+					"margin": {
+						"x": 15,
+						"y": 0,
+						"w": 15,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_attacked_03.png",
+					"region": {
+						"x": 401,
+						"y": 1375,
+						"w": 73,
+						"h": 48
+					},
+					"margin": {
+						"x": 0,
+						"y": 0,
+						"w": 23,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_roll_02.png",
+					"region": {
+						"x": 382,
+						"y": 1453,
+						"w": 93,
+						"h": 88
+					},
+					"margin": {
+						"x": 43,
+						"y": 0,
+						"w": 43,
+						"h": 0
+					}
+				},
+				{
+					"filename": "straight_sword_skill_01.png",
+					"region": {
+						"x": 381,
+						"y": 1543,
+						"w": 85,
+						"h": 88
+					},
+					"margin": {
+						"x": 27,
+						"y": 0,
+						"w": 27,
+						"h": 0
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1bb67e97f67c93700d8ca0fae10c85ae:9f8caf4a40141e1846186df1cb63a83c:0f3c3fc01f5f43cf60290b5024bbe8b7$"
+	}
+}
